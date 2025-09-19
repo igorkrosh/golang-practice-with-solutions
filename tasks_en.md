@@ -14,7 +14,7 @@
 
 2. Use switch to handle the day of the week (entered as int from 1 to 7), printing "Weekday" for 1-5 and "Weekend" for 6-7. Add default for invalid input.
 
-3. Implement a for loop that sums all numbers from 1 to N (entered by the user) and prints the sum. Use range to iterate over a slice of numbers.
+3. Implement a for loop that sums all numbers from 1 to N (entered by the user) and prints the sum.
 
 ## 3. Functions
 
