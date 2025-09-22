@@ -28,7 +28,7 @@
 
 1. Create an array [5]int, fill it with numbers from 1 to 5, and print all elements using for-range.
 
-2. Write a program that creates a string slice, adds 3 elements to it using append, removes the second element (using slicing), and prints the updated slice.
+2. Write a program that creates a string slice, adds 3 elements to it using append, removes the second element, and prints the updated slice.
 
 3. Implement a map map[string]int for storing names and ages (add 3 pairs), then print all keys and values using for-range.
 
